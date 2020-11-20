@@ -5,7 +5,7 @@ const Landing = () => {
         <div style={{ textAlign: 'center' }}>
             <h1>Here is FeedBack!</h1>
             We help you collect feedback form your users.
-            Press "+" button to create a survey!
+            Please login with Google first.
         </div>
     );
 };
